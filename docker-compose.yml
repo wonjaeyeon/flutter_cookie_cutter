@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: ./
+    ports:
+      - "9000"
+
+
+
+
+# how to run : terminal : docker compose up

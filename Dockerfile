@@ -38,3 +38,6 @@ EXPOSE 9000
 RUN ["chmod", "+x", "/app/server/server.sh"]
 
 ENTRYPOINT [ "/app/server/server.sh"]
+
+# how to build the image : docker build . -t flutter_docker
+# how to run the image : docker run -i -p 8080:9000 -td flutter_docker (8080 is the port on which the server will run)

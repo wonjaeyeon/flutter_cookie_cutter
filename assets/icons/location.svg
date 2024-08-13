@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=location" clip-path="url(#clip0_701_10973)">
+<path id="Exclude" fill-rule="evenodd" clip-rule="evenodd" d="M10 18C10 18 16 14.3137 16 9C16 5.68629 13.3137 3 10 3C6.68629 3 4 5.68629 4 9C4 14.3137 10 18 10 18ZM10 11C11.1046 11 12 10.1046 12 9C12 7.89543 11.1046 7 10 7C8.89543 7 8 7.89543 8 9C8 10.1046 8.89543 11 10 11Z" fill="#111111"/>
+</g>
+<defs>
+<clipPath id="clip0_701_10973">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

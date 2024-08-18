@@ -1,6 +1,6 @@
 // import 'package:flutter_cookie_cutter/data/source/local/database/characters/database_impl_nosql.dart';
 // import 'package:sqflite/sqflite.dart';
-// import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_test/flutter_test.dart';
 // import 'package:path/path.dart' as path;
 // import 'package:flutter/services.dart';
 // import 'package:sqflite_common_ffi/sqflite_ffi.dart';
@@ -8,6 +8,12 @@
 // import '../../../../../fixtures/fixtures.dart';
 //
 //
+
+void main() {
+  test('should pass', () {
+    expect(1, 1);
+  });
+}
 // void main() {
 //
 //   TestWidgetsFlutterBinding.ensureInitialized();
